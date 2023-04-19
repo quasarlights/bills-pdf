@@ -1,0 +1,13 @@
+  #pdfCanvas {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .centered {
+    display: block;
+    margin: 0 auto;
+    
+  }
+  
